@@ -11,3 +11,7 @@
 function onClickLogin(){
   kony.print("Login Success");
 }
+
+function signOnCallBack(){
+	kony.print("Redirecting to post login screens")
+}
