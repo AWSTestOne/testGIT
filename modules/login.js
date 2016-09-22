@@ -15,3 +15,7 @@ function onClickLogin(){
 function onClickLogin1(){
   kony.print("Login1 is Success");
 }
+
+function onClickLogin2(){
+  kony.print("Login2 is Success");
+}
