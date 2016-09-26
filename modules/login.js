@@ -27,3 +27,7 @@ function onClickLogin3(){
 function onClickLogin4(){
   kony.print("Login4 is Success");
 }
+
+function onClickLogin5(){
+  kony.print("Login5 is Success");
+}
